@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": ":dsa:sparse_matrix:code:src:",
+			"path": "."
+		},
+		{
+			"name": ":dsa:sparse_matrix:sample_inputs:",
+			"path": "../:dsa:sparse_matrix:sample_inputs:"
+		}
+	],
+	"settings": {}
+}
